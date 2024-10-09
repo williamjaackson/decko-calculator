@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Item 1",
+        "size": [1, 1],
+        "image": "./images/item1.png"
+
+    },
+    {
+        "name": "Item 2",
+        "size": [6, 3],
+        "image": "./images/item1.png"
+
+    },
+    {
+        "name": "Item 3",
+        "size": [5, 5],
+        "image": "./images/item1.png"
+
+    },
+    {
+        "name": "Item 4",
+        "size": [1, 1],
+        "image": "./images/item2.png"
+
+    },
+    {
+        "name": "Item 5",
+        "size": [6, 3],
+        "image": "./images/item2.png"
+
+    },
+    {
+        "name": "Item 6",
+        "size": [5, 5],
+        "image": "./images/item2.png"
+
+    }
+]
