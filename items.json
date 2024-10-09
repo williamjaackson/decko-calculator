@@ -33,6 +33,22 @@
         "name": "Item 6",
         "size": [5, 5],
         "image": "./images/item2.png"
+    },
+    {
+        "name": "Item 7",
+        "size": [1, 1],
+        "image": "./images/item3.png"
 
+    },
+    {
+        "name": "Item 8",
+        "size": [6, 3],
+        "image": "./images/item3.png"
+
+    },
+    {
+        "name": "Item 9",
+        "size": [5, 5],
+        "image": "./images/item3.png"
     }
 ]
